@@ -26,6 +26,4 @@ print file_get_contents('http://192.168.0.78/stat_ip.dat');
 // curl_close($ch);
 // echo $data;
 echo '4';
-#test
-
 ?>
