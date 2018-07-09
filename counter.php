@@ -14,5 +14,4 @@ fwrite($f,date("Y.m.d h:I:s").'	'.$count.'	'.$_SERVER['REMOTE_ADDR'].'	'.$_SERVE
 fclose($f);
 
 echo "Количество просмотров: $count"; 
-echo "mike - 2016";
 ?>
